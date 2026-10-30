@@ -46,4 +46,4 @@ Esta actividad es formativa y no lleva nota: sirve para conocer tu punto de part
 
 ## Presentación
 
-Cuando hayas respondido, revisa los cambios, crea tus commits y publícalos en tu repositorio privado. Cuando quieras presentar esta preparación, crea y publica la etiqueta `practica-00-v1`. No necesitas adjuntar este archivo ni capturas en Moodle.
+Cuando hayas respondido, revisa los cambios, crea tus commits y publícalos en tu repositorio privado. Cuando quieras presentar esta preparación, crea y publica la etiqueta `practica-dasp-00-v1`. No necesitas adjuntar este archivo ni capturas en Moodle.
