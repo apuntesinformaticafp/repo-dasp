@@ -7,6 +7,9 @@ Consulta los [apuntes y materiales del módulo DASP](https://www.apuntesinformat
 ## Contenido
 
 - **ud00/**: [entrevista inicial](ud00/entrevista.md) para conocer tu punto de partida.
+- **ud01/**: análisis de un problema real y tecnologías candidatas.
+  - [Enunciado](ud01/enunciado.md).
+  - [Rúbrica de autoevaluación](ud01/rubrica.md).
 
 ## Cómo trabajar
 
