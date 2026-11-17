@@ -93,6 +93,8 @@ del papel 🙃
 Estos bocetos no sustituyen al texto estructurado: son el punto de partida
 que el texto después ordena y fundamenta. Una foto del papel escaneada o
 hecha con el móvil vale; asegura que se entiende sin aumentarlo.
+Apoyan la explicación de tus decisiones; no tienen puntuación independiente
+ni se valora la calidad gráfica.
 
 ## Cómo presentar el trabajo
 
