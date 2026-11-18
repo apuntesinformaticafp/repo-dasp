@@ -18,6 +18,12 @@ La dedicación orientativa es de **entre dos y tres horas**.
 No necesitas instalar herramientas ni investigar recursos adicionales: se
 valoran tus observaciones y el razonamiento, no un catálogo comercial.
 
+El alcance es un **análisis inicial**. Puedes alcanzar el máximo con respuestas
+breves y justificadas: no necesitas presupuestos profesionales, mediciones
+reales, un plan de implantación ni una arquitectura. Los problemas personales
+y profesionales se valoran con el mismo nivel de exigencia; no puntúa elegir
+un proyecto más grande o más tecnológico.
+
 Elige un problema que conozcas de primera mano. Si solo se te ocurre uno
 vago, concrétalo antes de empezar: un proceso, una tarea repetitiva, una
 pérdida de información o un despilfarro observable. Si no tienes ninguno,
@@ -75,12 +81,40 @@ robótica, fabricación aditiva, simulación, inmersión, ciberseguridad o
 registros distribuidos) cuando proceda. No listes tecnologías por listar:
 solo las que aportan algo a tu comparación.
 
+Si tu problema no incluye operación física, explica por qué es IT y no necesita
+OT. Si utiliza información externa, distingue consultar esos datos de gestionar
+los dispositivos que los producen. No añadas sensores o departamentos que tu
+problema no necesita.
+
 Cierra el informe con una **comparación** según los criterios de la pregunta 5,
 una frase sobre el **beneficio esperado** y cómo lo comprobarías (pregunta 6),
 y una valoración breve de la implicación de cada alternativa para una
 **economía sostenible y eficiente** (consumo, residuos, eficiencia de recursos).
 No inventes porcentajes de ahorro ni afirmes mejoras sin indicadores. Si una
 alternativa depende de datos que no tienes, déjalo como hipótesis.
+
+Para sostenibilidad basta una comparación cualitativa razonada de un recurso
+pertinente en ambas opciones: por ejemplo, aprovechamiento de equipos, impresiones,
+almacenamiento o transferencias. Explica de qué depende el efecto; no necesitas
+calcular emisiones ni asegurar que lo digital siempre ahorra.
+
+Puedes señalar una alternativa preferida **provisionalmente**. Lo que se deja
+para las siguientes unidades es cerrar la solución y su implementación.
+
+### Organización posible, sin repetir contenido
+
+El contexto, las siete respuestas y el informe pueden estar integrados. Si una
+respuesta ya explica algo, basta remitir a ella. Esta tabla es opcional y puede
+ayudarte a desarrollar la pregunta 4:
+
+| Alternativa | Capacidad y aplicación al problema | Personas o áreas afectadas; IT/OT | Limitación o condición |
+| ----------- | ---------------------------------- | --------------------------------- | ---------------------- |
+| A           |                                    |                                   |                        |
+| B           |                                    |                                   |                        |
+
+Después compara las opciones para la misma necesidad, explica las diferencias
+de alcance y responde las preguntas 5–7. Una incertidumbre bien identificada
+es parte del análisis; no tienes que resolverla investigando fuera de los apuntes.
 
 ## 4. Bocetos en papel
 

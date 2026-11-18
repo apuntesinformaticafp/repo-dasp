@@ -32,11 +32,87 @@ su limpieza o elaboración gráfica**. Tampoco se puntúa dos veces un mismo
 aspecto: el informe se valora por relacionar características y aplicaciones;
 las otras filas valoran selección, conexiones, efectos, sostenibilidad y mejoras.
 
-Esta revisión corrige el reparto anterior, cuyos máximos sumaban 10,5 pese a
-anunciar un total de 10. Se comunicará antes de aplicarla y no introduce tareas
-nuevas. Si ya presentaste con aquella edición, se conserva esa referencia y el
-docente explicará el criterio de corrección; no se recalifican silenciosamente
-entregas anteriores.
+## Nivel de profundidad de UD1
+
+Se pide un **análisis inicial**, no un proyecto listo para implantar. Una
+respuesta breve puede alcanzar el máximo si explica las relaciones necesarias.
+No se exigen presupuestos profesionales, arquitectura, programación, mediciones
+reales ni conocer detalles que has identificado razonadamente como pendientes.
+No hace falta buscar fuentes adicionales ni usar todas las tecnologías del tema.
+
+Un problema personal, de servicios o industrial puede alcanzar la misma nota.
+Se valora la calidad del razonamiento respecto al problema elegido, no su
+ambición, novedad, rentabilidad comercial o cantidad de componentes.
+
+## Referencia para distinguir niveles
+
+Estos niveles orientan la lectura de cada criterio o aspecto del informe.
+No se asignan por contar palabras, apartados o requisitos aislados:
+
+| Nivel              | Fracción orientativa del máximo | Evidencia                                                                                                                                                           |
+| ------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Completo           | 100 %                           | Relación correcta, concreta y suficientemente justificada para un análisis inicial. Puede reconocer incertidumbres; no necesita agotar todos los detalles posibles. |
+| Mayormente logrado | 75 %                            | El razonamiento principal funciona, pero queda una conexión relevante por explicar o una generalización localizada. Se identifica cuál.                             |
+| Parcial            | 50 %                            | Hay una parte útil y correcta, pero falta una relación central para sostener la conclusión.                                                                         |
+| Incipiente         | 25 %                            | Se reconoce el asunto, pero casi no se explica su aplicación o predomina una confusión.                                                                             |
+| No acreditado      | 0 %                             | No hay evidencia del aspecto, o la respuesta no permite acreditar una parte válida.                                                                                 |
+
+La puntuación debe indicar qué se reconoce y qué falta. Si una respuesta está
+entre niveles, se explica el ajuste; el nivel no sustituye el juicio razonado.
+Una sugerencia de ampliación no equivale a una carencia para obtener el máximo.
+
+## Qué se valora en cada fila, sin repetir descuentos
+
+| Criterio               | Pregunta de corrección                                                       | Qué basta para el máximo en UD1                                                                                                                                                                                         |
+| ---------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Selección              | ¿Las opciones tienen sentido para esta necesidad?                            | Explicar por qué las capacidades elegidas son pertinentes. Se admiten tecnologías habituales y cambios de procedimiento; no hay que elegir marcas ni herramientas de implementación.                                    |
+| Conexión IT/OT         | ¿Está bien delimitada la relación entre información y proceso físico?        | Si hay OT, relacionar un dato físico con información, una decisión y un beneficio o riesgo. Si no la hay, justificarlo y delimitar qué hace el sistema IT. Consumir datos externos no demuestra gestionar sus sensores. |
+| Proceso completo       | ¿Se entiende el recorrido actual y el cambio?                                | Un relato o esquema sencillo con inicio, uso y resultado, personas y datos pertinentes. No se pide diseñar todos los procedimientos operativos.                                                                         |
+| Sostenibilidad         | ¿Se comparan recursos, no solo dinero?                                       | Comparar razonadamente al menos una implicación pertinente de ambas opciones para consumo, residuos o recursos, indicando condiciones o incertidumbres. No hace falta una huella ambiental calculada.                   |
+| Aplicación             | ¿Quién cambia su tarea y cómo?                                               | Explicar los efectos concretos sobre las personas o áreas relevantes. En un proyecto personal pueden ser la propia persona y quienes se relacionan con ella; no se exige inventar departamentos.                        |
+| Mejoras y comprobación | ¿Cómo sabríamos que la mejora merece la pena?                                | Relacionar beneficios con observaciones posibles y explicar costes, dependencias y riesgos pertinentes. Se admiten comparaciones cualitativas y datos pendientes; no basta medir popularidad si el objetivo es otro.    |
+| Informe                | ¿La relación entre capacidades y aplicaciones permite comparar alternativas? | Desarrollar al menos dos alternativas, sus limitaciones y una comparación coherente con el problema y las siete preguntas, sin cerrar la implementación. No se exige un documento separado.                             |
+
+El informe se desglosa así:
+
+- **Hasta 2 puntos:** relación característica–aplicación de las alternativas.
+  Por ejemplo, explicar qué permite consultar datos sin conexión, para qué
+  sirve en el problema y qué limitación introduce.
+- **Hasta 1 punto:** comparación de alternativas y sus limitaciones respecto
+  a una necesidad común. No tienen que ser idénticas: deben explicarse las
+  diferencias de alcance.
+- **Hasta 1 punto:** coherencia con contexto y preguntas y alcance de análisis
+  inicial. Se puede preferir provisionalmente una alternativa y señalar qué
+  información podría cambiar esa preferencia.
+
+Una misma evidencia puede demostrar aprendizajes diferentes, pero su ausencia
+no genera automáticamente descuentos en varias filas. Por ejemplo, la falta
+de sostenibilidad se valora en su fila, no vuelve a descontarse en el informe;
+un indicador inadecuado se valora en mejoras. Una segunda reducción exige una
+carencia distinta y debe explicarse.
+
+## Dos aclaraciones con ejemplos
+
+- **Sin OT:** organizar documentos personales con una carpeta compartida o un
+  gestor documental puede ser exclusivamente IT. Explicar que no se supervisa
+  ni controla un proceso físico permite delimitarlo correctamente. No hace
+  falta añadir sensores para conseguir puntos.
+- **Sostenibilidad:** en ese mismo caso, se puede comparar si ambas opciones
+  aprovechan equipos existentes, si una duplica documentos y transferencias o
+  si permiten reducir impresiones. Son hipótesis condicionadas al uso, no una
+  garantía de ahorro. No basta afirmar «al ser digital es sostenible».
+
+## Ediciones y comunicación
+
+El reparto publicado el 17/11/2026 corrige una rúbrica cuyos máximos sumaban
+10,5 pese a anunciar 10. También redistribuye el peso entre criterios y elimina
+la puntuación independiente de los bocetos: no es una simple conversión de escala.
+Las aclaraciones de niveles y ejemplos conservan los siete máximos de la tabla.
+
+Los cambios se comunicarán antes de aplicarlos. Para entregas anteriores se
+conserva la edición recibida y se explica la decisión docente sobre la referencia
+aplicable. No se recalifican silenciosamente ni se exigen retrospectivamente
+ejemplos o formulaciones añadidos después de presentar.
 
 ## Comprueba antes de entregar
 
